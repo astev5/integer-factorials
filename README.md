@@ -6,8 +6,9 @@ A program that will determine factorial values of integers starting with the num
 
 ## Requirements
 - Display an opening welcome statement and menu with the following options:
-      1. Run Program
-      2. Exit Program
+1. Run Program
+2. Exit Program
+
 - Use a switch/case block.
 - Use a for loop to determine and output the data.
 - Implement a do..while loop to run the program again.
